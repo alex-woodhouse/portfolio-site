@@ -1,4 +1,4 @@
-# portfolio-site
+# 🌐 My Personal Developer Portfolio Site
 
 ## Project setup
 ```
