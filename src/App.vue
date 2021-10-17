@@ -67,7 +67,8 @@
       </v-list>
     </v-navigation-drawer>
     <Home class="home" @toggleDrawer="toggleDrawer"></Home>
-    <About id="about"></About>
+<!--    <About id="about"></About>-->
+    <MyWorks id="myworks"></MyWorks>
   </v-app>
 </template>
 <style>
@@ -100,14 +101,16 @@ html {
 </style>
 
 <script>
-import Home from "@/components/Home";
-import About from "@/components/About/About";
+import Home from "@/components/Sections/Home/Home";
+// import About from "@/components/Sections/About/About";
+import MyWorks from "@/components/Sections/MyWorks/MyWorks";
 
 export default {
   name: 'App',
 
   components: {
-    About,
+    MyWorks,
+    // About,
     Home,
   },
 

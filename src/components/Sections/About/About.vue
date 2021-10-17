@@ -41,7 +41,7 @@ h1:after {
   background-color: white;
 }
 .about-me-graphic {
-  background-image: url(../../assets/about_me.svg);
+  background-image: url(../../../assets/about_me.svg);
   width: 100%;
   height: 100vh;
 }
