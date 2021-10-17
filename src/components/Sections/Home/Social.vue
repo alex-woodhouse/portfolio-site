@@ -17,12 +17,12 @@ name: "Social"
 
 <style scoped>
 .linkedin {
-  background-image: url(../../assets/social/linkedin.svg);
+  background-image: url(../../../assets/social/linkedin.svg);
   width: 50px;
   height: 50px;
 }
 .github {
-  background-image: url(../../assets/social/github.svg);
+  background-image: url(../../../assets/social/github.svg);
   width: 50px;
   height: 50px;
 }

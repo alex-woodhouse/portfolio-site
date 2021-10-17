@@ -22,9 +22,9 @@
 </template>
 
 <script>
-import CallToAction from "@/components/Home/CallToAction";
-import Social from "@/components/Home/Social";
-import NavBar from "@/components/NavBar";
+import CallToAction from "@/components/Sections/Home/CallToAction";
+import Social from "@/components/Sections/Home/Social";
+import NavBar from "@/components/Navigation/NavBar";
 
 export default {
   name: "Home",
@@ -51,7 +51,7 @@ export default {
 
 .home-right-bg {
   background-color: #202040;
-  background-image: url(../assets/home_shapes_bg.svg);
+  background-image: url(../../../assets/home_shapes_bg.svg);
 }
 .home-right {
   height: 100%;

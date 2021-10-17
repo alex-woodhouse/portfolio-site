@@ -4,7 +4,7 @@
     <h3 class="text-lg-h3 font-weight-thin">Full Stack Web Developer</h3>
     <div class="btn-divider"/>
     <div class="d-flex flex-wrap">
-      <v-btn class="btn-glow mr-4 mb-3" height="50" width="170" color="#FF1E56" depressed>
+      <v-btn class="btn-glow mr-4 mb-3" height="50" width="170" color="#FF1E56" depressed href="#myworks">
         <span>See My Works</span>
       </v-btn>
       <v-btn height="50" width="170" color="#FF1E56" outlined href="mailto:contact@alexwoodhouse.co.uk">
