@@ -1,3 +1,47 @@
 {
-
+  "projects": [
+    {
+      "name": "Forumm Events",
+      "subtitle": "A web based virtual & hybrid events platform using Vue.js and Firebase as the backend.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "bannerURL": "https://firebasestorage.googleapis.com/v0/b/alex-portfolio-site.appspot.com/o/forumm-banner.png?alt=media",
+      "iframeURL": "https://firebasestorage.googleapis.com/v0/b/alex-portfolio-site.appspot.com/o/Forumm%20Promo.mp4?alt=media",
+      "logoURL": "https://graphics.forumm.events/ForummIconWhite.png",
+      "websiteURL": "https://www.forumm.events/",
+      "tags": ["Contract", "Vue.js", "5000+ users"]
+    },
+    {
+      "name": "Smirkin Photobooth Software",
+      "subtitle": "Custom photobooth software with accompanying admin dashboard with remote kiosk management and real time metrics.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "bannerURL": "https://firebasestorage.googleapis.com/v0/b/alex-portfolio-site.appspot.com/o/smirkin-dashboard.png?alt=media",
+      "logoURL": "https://firebasestorage.googleapis.com/v0/b/alex-portfolio-site.appspot.com/o/smirkin-logo.png?alt=media",
+      "tags": ["Contract", "React Native", "Kaspa's Desserts"]
+    },
+    {
+      "name": "Secure Medical Record System",
+      "subtitle": "A secure healthcare record storage system focused on Authentication, Authorisation and Accountability.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "bannerURL": "https://firebasestorage.googleapis.com/v0/b/alex-portfolio-site.appspot.com/o/363_banner.png?alt=media",
+      "iframeURL": "https://firebasestorage.googleapis.com/v0/b/alex-portfolio-site.appspot.com/o/363_demo_video.mp4?alt=media",
+      "logoURL": "https://firebasestorage.googleapis.com/v0/b/alex-portfolio-site.appspot.com/o/363_logo.jpg?alt=media",
+      "tags": ["Coursework", "Security", "Java", "REST"]
+    },
+    {
+      "name": "Micro:bit IOT Tracking Dashboard",
+      "subtitle": "A generalisable IoT framework for tracking data from Micro:bit devices in an online dashboard.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "bannerURL": "https://firebasestorage.googleapis.com/v0/b/alex-portfolio-site.appspot.com/o/331-banner.png?alt=media",
+      "logoURL": "https://firebasestorage.googleapis.com/v0/b/alex-portfolio-site.appspot.com/o/microbit-logo.jpg?alt=media",
+      "tags": ["Coursework", "IOT","Vue.js", "Firebase"]
+    },
+    {
+      "name": "ServerLab: Interactive E-Learning Platform",
+      "subtitle": "An online e-learing platform supporting video tutorials, quizzes and an interactive coding sandbox.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "bannerURL": "https://firebasestorage.googleapis.com/v0/b/alex-portfolio-site.appspot.com/o/serverlab-banner.png?alt=media",
+      "logoURL": "https://firebasestorage.googleapis.com/v0/b/alex-portfolio-site.appspot.com/o/serverlab-logo.jpg?alt=media",
+      "tags": ["Coursework", "Vue.js", "MongoDB", "REST"]
+    }
+  ]
 }
